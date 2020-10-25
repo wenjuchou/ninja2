@@ -1,1 +1,4 @@
-# ninja2
+# NinjaSprite
+One sprite movement
+
+https://wenjuchou.github.io/ninjasprite/
